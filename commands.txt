@@ -6,9 +6,12 @@
 
 * cmd for adding user email
  >git config --global user.email "email@gmail.com"
-
-*git cmd forinitialising git repository
+comme
+*git cmd for initialising git repository
  >git init
 
 *cmd for adding all untraced files to staging area
 >git add -A
+
+*cmd for adding staged files to local repository
+ > git commit -m "give msg"
