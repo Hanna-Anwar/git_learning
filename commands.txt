@@ -1,0 +1,8 @@
+* command for chk git version
+  >git version
+
+*cmd for listing config detail
+ >git config --list
+
+* cmd for adding user email
+ >git config --global user.email "email@gmail.com"
