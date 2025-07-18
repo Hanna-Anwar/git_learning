@@ -6,7 +6,7 @@
 
 * cmd for adding user email
  >git config --global user.email "email@gmail.com"
-comme
+
 *git cmd for initialising git repository
  >git init
 
@@ -18,3 +18,6 @@ comme
 
  *cmd for pushing changes from local repo to remote repo
  > git push
+
+ *cmd for listing all untracked files
+ >git status
