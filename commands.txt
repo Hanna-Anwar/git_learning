@@ -27,3 +27,15 @@
 
 *cmd for pushing into remote repo from local repo
 >git push <branch name>
+
+*cmd for getting the branch name
+>git branch
+
+*cmd for getting the name
+>git remote -v
+
+*cmd fo renaming the name
+>git remote rename origine newname
+
+*cmd  for getting the commits
+>git log
