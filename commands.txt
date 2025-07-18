@@ -16,8 +16,14 @@
 *cmd for adding staged files to local repository
  > git commit -m "give msg"
 
- *cmd for pushing changes from local repo to remote repo
+*cmd for pushing changes from local repo to remote repo
  > git push
 
- *cmd for listing all untracked files
+*cmd for listing all untracked files
  >git status
+
+* cmd for adding remote repo to local repo
+>git remote add <name> remote-path
+
+*cmd for pushing into remote repo from local repo
+>git push <branch name>
